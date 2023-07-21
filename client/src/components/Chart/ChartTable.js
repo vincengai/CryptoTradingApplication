@@ -33,7 +33,6 @@ const Chart = () => {
     // fetchData();
   }, []);
 
-
   useEffect(() => {
     const fetchTopCryptocurrencies = async () => {
       try {
